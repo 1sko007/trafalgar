@@ -1,0 +1,213 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    .nav__container{
+        max-width: 690px;
+    }
+    .container{
+        max-width: 768px;
+        background-image: url(../img/Bitmap\ \(12\).jpg);
+    }
+    .header__list{
+        text-align: center;
+        background-image: none;
+    }
+    .header__iytem{
+        background-position:  bottom 70px right 400px;
+        padding: 137px 98px 217px;
+    }
+    .header__iytem h2{
+        width: 573px;
+        padding: 0;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 56px;
+        color: #FFFFFF;
+    }
+    .header__iytem p{
+        width: 573px;
+        padding: 24px 0 32px;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    .header__iytem a{
+        margin: 0;
+    }
+    .group11__container{
+        max-width: 573px;
+    }
+    .blu{
+        width: 10px;
+        height: 500px;
+        top: 0;
+        left: 40px;
+    }
+    .group__list{
+        flex-direction: column;
+    }
+    .group__iytem{
+        display: flex;
+    }
+    .group__iytem h2{
+        padding: 0 0 27px 79px;
+    }
+    .group__iytem p{
+        width: 398px;
+        padding: 0 0 0 79px;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #939CAA;
+    }
+    .easy__container{
+        max-width: 573px;
+    }
+    .easy__list{
+        flex-direction: column-reverse;
+        text-align: center;
+        background-position: right -200px bottom 350px;
+    }
+    .easy__iytem {
+        padding: 0 0 0 65px;
+        background-image: none;
+    }
+    .easy__iytem h2{
+        padding: 56px 0 0;
+    }
+    .easy__iytem a{
+        margin: 0 70px 0 0;
+    }
+    .coming__container{
+        max-width: 573px;
+    }
+    .coming__list{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+        background-position: top 40px right 300px;
+    }
+    .coming__list img{
+        // margin: 60px 0 0 60px;
+        width: 445px;
+        height: 445px;
+    };
+    .coming__iytem{
+        padding: 0;
+    }
+    .coming__iytem h2{
+        width: 478px;
+        padding: 56px 0 0 100px;
+    }
+    .coming__iytem p{
+        width: 573px;
+    }
+    .zero__container{
+        max-width: 573px;
+    }
+    .zero__list{
+        flex-direction: column-reverse;
+        text-align: center;
+        align-items: center;
+        background-position: right -460px bottom 500px;
+    }
+    .zero__iytem{
+        padding: 0;
+    }
+    .zero__iytem h2{
+        white-space: nowrap;
+        padding: 56px 0 0 20px;
+        width: 457px;
+    }
+    .zero__iytem p{
+       width: 573px;
+    }
+    .store__container{
+        max-width: 768px;
+        margin: 100px auto 0;
+    }
+    .store__list{
+       flex-wrap: wrap;
+       text-align: center;
+    }
+    .store__list{
+        padding: 62px 0 62px 160px;
+    }
+    .store__iytem{
+        padding: 0;
+    }
+    .store__list h2{
+       padding: 0 0 20px ;
+    }
+    .footer__containerr{
+        max-width: 768px;
+
+    }
+    .nav__wrappp{
+      padding: 30px 40px;
+    }
+    .about__container{
+        max-width: 768px;
+        background-image: url(../img/Group\ 26.png);
+        background-repeat: no-repeat;
+    }
+    .about__container h2{
+        padding: 72px 0 72px 92px;
+    }
+    .the__container{
+        max-width: 690px;
+    }
+    .the__list{
+        flex-direction: column-reverse;
+        text-align: center;
+        align-items: center;
+        background-position: right -60px top 300px !important;
+    }
+    .the__iytem{
+        background-image: none;
+    }
+    .the__iytem h2{
+        padding: 56px 0 0 80px;
+        width: 507px;
+    }
+    .the__iytem p{
+        width: 573px;
+    }
+    .urban__container{
+        max-width: 690px;
+    }
+    .urban__list{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+    .urban__iytem{
+        padding: 0;
+    }
+    .urban__iytem h2{
+        padding: 56px 0 24px 100px;
+        width: 457px;
+    }
+    .urban__iytem p{
+        width: 573px;
+    }
+    .our__container{
+        max-width: 690px;
+    }
+    .our__list{
+        flex-direction: column;
+        text-align: center;
+    }
+    .faqs__container{
+        max-width: 690px;
+    }
+    .question{
+        flex-direction: column;
+    }
+    .question h3{
+        white-space: nowrap;
+    }
+    .question h4{
+        text-align: center;
+        padding: 0 0 20px 200px;
+    }
+}
